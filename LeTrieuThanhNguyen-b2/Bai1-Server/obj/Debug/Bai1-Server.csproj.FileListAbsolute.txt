@@ -1,0 +1,9 @@
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\bin\Debug\Bai1-Server.exe.config
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\bin\Debug\Bai1-Server.exe
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\bin\Debug\Bai1-Server.pdb
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\obj\Debug\Bai1-Server.csprojResolveAssemblyReference.cache
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\obj\Debug\Bai1_Server.Form1.resources
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\obj\Debug\Bai1_Server.Properties.Resources.resources
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\obj\Debug\Bai1-Server.csproj.GenerateResource.Cache
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\obj\Debug\Bai1-Server.exe
+E:\QTM\Slide\LeTrieuThanhNguyen-b2\Bai1-Server\obj\Debug\Bai1-Server.pdb

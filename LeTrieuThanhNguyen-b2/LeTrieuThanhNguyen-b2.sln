@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1-Server", "Bai1-Server\Bai1-Server.csproj", "{545C272F-6C44-42D5-9A30-5F1F53E0229D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1-Client", "Bai1-Client\Bai1-Client.csproj", "{C067E8D8-E226-4F92-9C03-3617CC8FF89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545C272F-6C44-42D5-9A30-5F1F53E0229D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{545C272F-6C44-42D5-9A30-5F1F53E0229D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{545C272F-6C44-42D5-9A30-5F1F53E0229D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{545C272F-6C44-42D5-9A30-5F1F53E0229D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C067E8D8-E226-4F92-9C03-3617CC8FF89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C067E8D8-E226-4F92-9C03-3617CC8FF89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C067E8D8-E226-4F92-9C03-3617CC8FF89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C067E8D8-E226-4F92-9C03-3617CC8FF89A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
